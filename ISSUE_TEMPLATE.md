@@ -3,9 +3,14 @@
 ## About
 Briefly introduce your application (purpose, main functionality, user goals).
 
-What platform is your application using (ie. Android, iOS, Web)?
+What platform is your application using (i.e. Android, iOS, Web)?
 
  ## Art Direction/Vision
 Please list any applications that are similar to your vision for your app.
 
 List a few adjectives that might describe how you want your app to look and feel.
+
+## Deliverables
+What type of design do you require? (i.e. wireframes, logo, poster, etc)
+ 
+What is the projected due date?
