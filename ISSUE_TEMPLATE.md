@@ -12,7 +12,7 @@
 ### List a few adjectives that might describe how you want your app to look and feel.
 
 
-## :old_man: Target Market
+## :older_man: Target Market
 ### Describe your target user (young women who do yoga and want to save time, retired senior men looking for x, engineering students looking for y, etc)
 
 
