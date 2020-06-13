@@ -10,7 +10,7 @@ Design team meeting notes can be found in the repository [wiki](https://github.c
 
 ### Assets
 
-The [Assets](/assets) directory houses most Launch Pad logos and other material.
+The [Assets](/assets) directory houses most Launch Pad logos and other material. The contents of all the subdirectories under this folder are published to [`design.ubclaunchpad.com`](https://design.ubclaunchpad.com).
 
 ### Slideshow Template
 
