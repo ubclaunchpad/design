@@ -1,4 +1,4 @@
-# 🎨 Design
+# 🎨 Design [![Netlify Status](https://api.netlify.com/api/v1/badges/d13611cb-1901-4f53-ad00-f7bcabf6dbb9/deploy-status)](https://app.netlify.com/sites/ubclaunchpad-design/deploys)
 
 The UBC Launch Pad design team and relevant documentation, links, and resources.
 
@@ -10,7 +10,7 @@ The [Onboarding for Design](https://docs.ubclaunchpad.com/handbook/onboarding/de
 
 ### Assets
 
-The [Assets](/assets) directory houses most Launch Pad logos and other material.
+The [Assets](/assets) directory houses most Launch Pad logos and other material. The contents of all the subdirectories under this folder are published to [`design.ubclaunchpad.com`](https://design.ubclaunchpad.com).
 
 ### Slideshow Template
 
