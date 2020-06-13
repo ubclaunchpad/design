@@ -1,0 +1,5 @@
+# Configure Netlify builds - see https://docs.netlify.com/configure-builds/file-based-configuration
+
+[build]
+  command = "curl -fsSL https://deno.land/x/install/install.sh | sh && deno run --allow-read=assets --allow-write=assets ./generateIndex.ts"
+  publish = "./assets"

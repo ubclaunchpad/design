@@ -1,4 +1,4 @@
-# 🎨 Design
+# 🎨 Design [![Netlify Status](https://api.netlify.com/api/v1/badges/d13611cb-1901-4f53-ad00-f7bcabf6dbb9/deploy-status)](https://app.netlify.com/sites/ubclaunchpad-design/deploys)
 
 The UBC Launch Pad design team and relevant documentation, links, and resources.
 
