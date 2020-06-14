@@ -13,7 +13,7 @@ The [Onboarding for Design](https://docs.ubclaunchpad.com/handbook/onboarding/de
 The [Assets](/assets) directory houses most Launch Pad logos and other material. The contents of all the subdirectories under this folder are published to [`design.ubclaunchpad.com`](https://design.ubclaunchpad.com), so that they can be used in other projects - for example:
 
 ```html
-<img src="https://design.ubclaunchpad.com/lp/2018/blue-white-background.png">
+<img src="https://design.ubclaunchpad.com/2018/blue-white-background.png">
 ```
 
 Make sure to only publish final assets here, and note that not everything needs to be published - just assets that might get used.
