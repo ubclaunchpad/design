@@ -4,9 +4,9 @@ The UBC Launch Pad design team and relevant documentation, links, and resources.
 
 ## Quick Links
 
-### Meeting Notes
+### Handbook
 
-Design team meeting notes can be found in the repository [wiki](https://github.com/ubclaunchpad/design/wiki).
+The [Onboarding for Design](https://docs.ubclaunchpad.com/handbook/onboarding/design) page outlines how the design team works.
 
 ### Assets
 
