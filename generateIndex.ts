@@ -46,6 +46,9 @@ async function walkDirectory(dir: string) {
                     .join('\n\t\t\t\t')}
             </ul>
         </p>
+        <p>
+            A <a href="https://ubclaunchpad.com">UBC Launch Pad</a> project. This site is powered by <a href="https://www.netlify.com/">Netlify</a>.
+        </p>
     <body>
 </html>`);
     Deno.writeFile(path.join(dir, 'index.html'), data);

@@ -10,7 +10,15 @@ The [Onboarding for Design](https://docs.ubclaunchpad.com/handbook/onboarding/de
 
 ### Assets
 
-The [Assets](/assets) directory houses most Launch Pad logos and other material. The contents of all the subdirectories under this folder are published to [`design.ubclaunchpad.com`](https://design.ubclaunchpad.com).
+The [Assets](/assets) directory houses most Launch Pad logos and other material. The contents of all the subdirectories under this folder are published to [`design.ubclaunchpad.com`](https://design.ubclaunchpad.com), so that they can be used in other projects - for example:
+
+```html
+<img src="https://design.ubclaunchpad.com/lp/2018/blue-white-background.png">
+```
+
+Make sure to only publish final assets here, and note that not everything needs to be published - just assets that might get used.
+
+In pull requests, the deployed website is automatically generated and deployed by [Netlify](https://app.netlify.com/sites/ubclaunchpad-design/deploys). The site generator is in [`generateIndex.ts`](./generateIndex.ts), a [Deno](https://deno.land/) script.
 
 ### Slideshow Template
 
